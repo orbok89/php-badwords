@@ -14,7 +14,7 @@ $name = $_GET['name'];
 ?>
 
 <div> <?php echo $paragrafo ?></div>
-<div> la lunghezza del paragrafo compresi gli spazzi è <?php echo $lunghezza ?></div>
+<div> la lunghezza del paragrafo compresi gli spazi è <?php echo $lunghezza ?></div>
 <div> <?php echo $paragrafo_1 ?></div>
-<div> la lunghezza del paragrafo compresi gli spazzi è <?php echo $lunghezza_1 ?></div>
+<div> la lunghezza del paragrafo compresi gli spazi è <?php echo $lunghezza_1 ?></div>
 <div> <?php echo $name ?></div>
